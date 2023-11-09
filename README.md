@@ -97,7 +97,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (16).png>)
+![Screenshot (16)](https://github.com/Mathananthi/Calc/assets/135731816/92993214-4970-4973-b462-f4782fa08668)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
